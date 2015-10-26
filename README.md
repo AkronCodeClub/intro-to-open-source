@@ -40,3 +40,7 @@ If you have time before the meetup you may want to check out the following blog 
 * [AK Un-Sugarcoated "don’t be a jerk"](http://akunsugarcoated.com/tag/dont-be-a-jerk/)
 * [Thinkful GitHub Pull Request Tutorial](https://www.thinkful.com/learn/github-pull-request-tutorial/)
 * [wikiHow "How to Accept Criticism While at Work"](http://www.wikihow.com/Accept-Criticism-While-at-Work)
+
+## Demo
+
+*This is a demonstration...*
