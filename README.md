@@ -1,17 +1,22 @@
 # Intro to OSS Development
 
-Resources for our Intro to OSS Development meetups, the first of which we did as part of [Hacktoberfest 2015](http://www.meetup.com/AkronCodeClub/events/225945616/). The description for that meetup:
+Resources for our Intro to OSS Development meetups, the first of which we did as part of [Hacktoberfest 2015](http://www.meetup.com/AkronCodeClub/events/225945616/).
+
+* [Prezi Slideshow](https://prezi.com/clvz4phss0ls/intro-to-oss-development/)
+
+## Meetup Description
 
 Want to participate in tonight's Hacktoberfest hack night but don't know where to begin? No sweat, we're here to help!
 
 This one hour, optional session will occur immediately before our hack night officially begins. Several members of the Code Club will be on hand to provide active mentorship. We'll begin with a presentation giving on overview of open source development. Topics will include:
 
 * What is open source?
-* How to get stated* Choosing a project
+* Getting started
+* Choosing a project
 * Forks, branches, and pull requests
 * Contributor guidelines
 * Open source etiquette
-* Opening your first pull requests
+* Opening your first pull request
 * Handling feedback on your work
 
 After the presentation we'll make sure that everyone has a GitHub account. We'll then walk everyone through the process of forking an open source repository, creating a branch, and making a change. We won't make a pull request (yet), but we explain the process.
