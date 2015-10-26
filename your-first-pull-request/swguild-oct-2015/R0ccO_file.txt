@@ -1,0 +1,1 @@
+Sample file to add during the hacktoberfest at the Software Guild -- Rocco Riccardi
