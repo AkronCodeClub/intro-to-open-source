@@ -16,14 +16,15 @@ This one hour, optional session will occur immediately before our hack night off
 * Forks, branches, and pull requests
 * Contributor guidelines
 * Open source etiquette
+* Project licensing
 * Opening your first pull request
 * Handling feedback on your work
 
-After the presentation we'll make sure that everyone has a GitHub account. We'll then walk everyone through the process of forking an open source repository, creating a branch, and making a change. We won't make a pull request (yet), but we explain the process.
+After the presentation we'll make sure that everyone has a GitHub account. We'll then walk everyone through the process of forking an open source repository, creating a branch, and making a change. We won't make a pull request (yet), but we'll explain the process.
 
-By the end of the hour everyone should be ready to join the hack night and start contributing!
+By the end of the hour, everyone should be ready to join the hack night and start contributing!
 
-If you have time before the meetup you may want to check out the following blog post recommended by DigitalOcean:
+If you have time before the meetup you may want to check out the following blog posts recommended by DigitalOcean:
 
 * [The Real Benefits of Engaging in Open Source](http://erikaheidi.com/blog/the-real-benefits-of-engaging-in-open-source)
 * [Contributing to Open Source: a quick getting started guide](http://erikaheidi.com/blog/contributing-to-open-source-a-quick-getting-started-guide)
@@ -40,3 +41,6 @@ If you have time before the meetup you may want to check out the following blog 
 * [AK Un-Sugarcoated "don’t be a jerk"](http://akunsugarcoated.com/tag/dont-be-a-jerk/)
 * [Thinkful GitHub Pull Request Tutorial](https://www.thinkful.com/learn/github-pull-request-tutorial/)
 * [wikiHow "How to Accept Criticism While at Work"](http://www.wikihow.com/Accept-Criticism-While-at-Work)
+* [Creative Commons Licenses](https://creativecommons.org/)
+* [FOSS: Free Open-Source Software](http://freeopensourcesoftware.org/index.php?title=Main_Page)
+* [Git Command Reference](http://gitref.org/)
