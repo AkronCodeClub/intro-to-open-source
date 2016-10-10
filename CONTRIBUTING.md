@@ -8,11 +8,11 @@ If you want to contribute but aren't sure what to work on, we keep our list of c
 
 #### Fork the Project
 
-Fork the [project on Github](https://github.com/AkronCodeClub/intro-to-open-source) and check out your copy.
+Fork the [project on GitHub](https://github.com/AkronCodeClub/intro-to-open-source) and check out your copy.
 
 ```
 git clone https://github.com/contributor/intro-to-open-source.git
-cd concurrent-ruby
+cd intro-to-open-source
 git remote add upstream https://github.com/AkronCodeClub/intro-to-open-source.git
 ```
 
